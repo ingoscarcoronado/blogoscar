@@ -3,3 +3,5 @@ Este es el Primer curso Profesional de Git de Oscar en Platzi
 Oscar tiene 33 Años es de Ayapel, Cordoba
 
 Esta es mi pequeña Historia
+
+Sorprendentemente este curso de GIT
