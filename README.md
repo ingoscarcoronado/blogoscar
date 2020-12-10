@@ -5,13 +5,13 @@
 
 He iniciado el Curso de Git & Github Profesional y al inicio tenia mis dudas...! 
 
-**Pienso especializarme en Backend, Seguiendo mi ruta de Aprendizaje:**
+**Deseo Especializarme en Backend, Seguiendo mi ruta de Aprendizaje:**
 
-	*  Git & GitHub
-	* Administración de Servidores 
+	* Git & GitHub
+	* Administración de Servidores Linux
+    * Doker
 	* DevOps
 	* Python
-	 * Node.JS
-	 * Bases de Datos
-	 * PAAS
-	 * SAAS
+	* Node.JS
+	* PAAS
+	* SAAS
